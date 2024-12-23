@@ -6,13 +6,4 @@ pillow==10.2.0
 matplotlib==3.8.3
 seaborn==0.13.2
 #pickle5==0.0.12
-#pickle5
 pickle-mixin
-# streamlit
-# pandas
-# numpy
-# scikit-learn
-# pillow
-# matplotlib
-# seaborn
-# #pickle
