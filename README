@@ -21,4 +21,4 @@ pip install -r requirements.txt to install the requirements in the current envir
 
 > python -m pip install -r requirements.txt   
 
-> streamlit app.py
+> streamlit run app.py
